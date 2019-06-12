@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Harry Potter Creatures</string>
+    <string name="action_settings">Settings</string>
+    <string name="acromantula">Acromantula</string>
+    <string name="centaur">Centaur</string>
+    <string name="grindylow">Grindylow</string>
+    <string name="hippogrif">Hippogrif</string>
+    <string name="pixies">Pixies</string>
+    <string name="acromantula_description">An Acromantula is a species of giant spider, native to the rainforests of Southeast Asia, particularly Borneo where it inhabits dense jungles.</string>
+
+    <string name="centaur_description">A Centaur is a magical creature whose head, torso, and arms appear to be human and are joined to a horses body.</string>
+
+    <string name="grindylow_description">Grindylow is a small, horned, pale-green water demon and a Dark creature.</string>
+
+    <string name="hippogrif_description"> Hippogriff is a magical creature that has the front legs, wings, and head of a giant eagle and the body, hind legs and tail of a horse.</string>
+
+    <string name="pixies_description">A Pixie is a small, bright blue mischief-maker, and loves tricks and practical jokes.</string>
+    <string name="hp_creatures">Harry Potter Creatures</string>
+
+
+</resources>
