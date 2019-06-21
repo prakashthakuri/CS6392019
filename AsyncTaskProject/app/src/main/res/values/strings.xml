@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AsyncTaskProject</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="download">download</string>
+
+    <string name="button">Click to find my BirthPlace</string>
+    <string name="kathmandu_nepal">Kathmandu, Nepal</string>
+</resources>
