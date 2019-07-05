@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">NewYork Trade</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="email_hint">Enter E-mail</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="login_button">Login</string>
+    <string name="forgot_password_link">Forgot Password</string>
+    <string name="signup_link">Create an Account?</string>
+    <string name="title_profile">Profile</string>
+    <string name="name_hint">Enter Name</string>
+    <string name="phone_number_hint">Enter Phone Number</string>
+    <string name="register_button">Register</string>
+    <string name="login_link">Back to Login</string>
+    <string name="grad_year_hint">Graduation Year</string>
+    <string name="label_forgot_password">Forgot Password</string>
+    <string name="enter_registered_email">Enter Email</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="back">Back to Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="items_label">Items</string>
+    <string name="sales_label">Sales</string>
+    <string name="reputation_label">Reputation</string>
+    <string name="user_name">Prakash Shahi</string>
+    <string name="user_email">prakash@pace.edu</string>
+    <string name="phone">+1 929 123 9738</string>
+    <string name="reputation">4.1</string>
+    <string name="message">Message</string>
+</resources>
